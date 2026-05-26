@@ -1,4 +1,4 @@
-name: XServer-Milan-VPS
+name: XServerII-VPS
 on:
   workflow_dispatch:
 
